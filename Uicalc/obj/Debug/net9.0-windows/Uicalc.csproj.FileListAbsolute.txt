@@ -1,0 +1,14 @@
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\bin\Debug\net9.0-windows\Uicalc.exe
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\bin\Debug\net9.0-windows\Uicalc.deps.json
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\bin\Debug\net9.0-windows\Uicalc.runtimeconfig.json
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\bin\Debug\net9.0-windows\Uicalc.dll
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\bin\Debug\net9.0-windows\Uicalc.pdb
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\obj\Debug\net9.0-windows\Uicalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\obj\Debug\net9.0-windows\Uicalc.AssemblyInfoInputs.cache
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\obj\Debug\net9.0-windows\Uicalc.AssemblyInfo.cs
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\obj\Debug\net9.0-windows\Uicalc.csproj.CoreCompileInputs.cache
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\obj\Debug\net9.0-windows\Uicalc.dll
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\obj\Debug\net9.0-windows\refint\Uicalc.dll
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\obj\Debug\net9.0-windows\Uicalc.pdb
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\obj\Debug\net9.0-windows\Uicalc.genruntimeconfig.cache
+C:\Users\nooid\RiderProjects\Calculator\Uicalc\obj\Debug\net9.0-windows\ref\Uicalc.dll

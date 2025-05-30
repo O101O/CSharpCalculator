@@ -1,0 +1,14 @@
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\bin\Debug\net9.0-windows\Dynamic.exe
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\bin\Debug\net9.0-windows\Dynamic.deps.json
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\bin\Debug\net9.0-windows\Dynamic.runtimeconfig.json
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\bin\Debug\net9.0-windows\Dynamic.dll
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\bin\Debug\net9.0-windows\Dynamic.pdb
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\obj\Debug\net9.0-windows\Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\obj\Debug\net9.0-windows\Dynamic.AssemblyInfoInputs.cache
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\obj\Debug\net9.0-windows\Dynamic.AssemblyInfo.cs
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\obj\Debug\net9.0-windows\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\obj\Debug\net9.0-windows\Dynamic.dll
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\obj\Debug\net9.0-windows\refint\Dynamic.dll
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\obj\Debug\net9.0-windows\Dynamic.pdb
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\obj\Debug\net9.0-windows\Dynamic.genruntimeconfig.cache
+C:\Users\nooid\RiderProjects\Calculator\Dynamic\obj\Debug\net9.0-windows\ref\Dynamic.dll

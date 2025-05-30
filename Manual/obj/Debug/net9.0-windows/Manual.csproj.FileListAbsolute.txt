@@ -1,0 +1,14 @@
+C:\Users\nooid\RiderProjects\Calculator\Manual\bin\Debug\net9.0-windows\Manual.exe
+C:\Users\nooid\RiderProjects\Calculator\Manual\bin\Debug\net9.0-windows\Manual.deps.json
+C:\Users\nooid\RiderProjects\Calculator\Manual\bin\Debug\net9.0-windows\Manual.runtimeconfig.json
+C:\Users\nooid\RiderProjects\Calculator\Manual\bin\Debug\net9.0-windows\Manual.dll
+C:\Users\nooid\RiderProjects\Calculator\Manual\bin\Debug\net9.0-windows\Manual.pdb
+C:\Users\nooid\RiderProjects\Calculator\Manual\obj\Debug\net9.0-windows\Manual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nooid\RiderProjects\Calculator\Manual\obj\Debug\net9.0-windows\Manual.AssemblyInfoInputs.cache
+C:\Users\nooid\RiderProjects\Calculator\Manual\obj\Debug\net9.0-windows\Manual.AssemblyInfo.cs
+C:\Users\nooid\RiderProjects\Calculator\Manual\obj\Debug\net9.0-windows\Manual.csproj.CoreCompileInputs.cache
+C:\Users\nooid\RiderProjects\Calculator\Manual\obj\Debug\net9.0-windows\Manual.dll
+C:\Users\nooid\RiderProjects\Calculator\Manual\obj\Debug\net9.0-windows\refint\Manual.dll
+C:\Users\nooid\RiderProjects\Calculator\Manual\obj\Debug\net9.0-windows\Manual.pdb
+C:\Users\nooid\RiderProjects\Calculator\Manual\obj\Debug\net9.0-windows\Manual.genruntimeconfig.cache
+C:\Users\nooid\RiderProjects\Calculator\Manual\obj\Debug\net9.0-windows\ref\Manual.dll
